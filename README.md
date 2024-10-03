@@ -9,14 +9,8 @@ I’m currently sharpening my full-stack development skills, diving deep into bo
 
 ---
 
-## 🛠 Skills & Expertise
-Here’s what I bring to the table:
-
-- **Frontend Skills**: HTML, CSS, JavaScript (Turning designs into interactive websites)
-- **Backend Development**: Java, Node.js (Building secure and scalable backends)
-- **Frameworks**: React, Bootstrap (Crafting smooth, responsive experiences)
-- **Version Control**: Git, GitHub (Keeping my code organized and versioned)
-- **Database Management**: MongoDB (Handling data with precision)
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
 ---
 
@@ -40,3 +34,9 @@ Got a cool project or an idea that needs a coding partner? I’m all ears! I lov
 Whether you’re an experienced developer or just starting, let’s collaborate and create something incredible. The possibilities are endless when we team up and code together! 🌐✨
 
 ---
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=palak-gupta-16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=palak-gupta-16&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-gupta-16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
