@@ -17,7 +17,7 @@ I’m currently sharpening my full-stack development skills, diving deep into bo
 ## 🔭 Projects I've Worked On
 Here are some of the exciting projects I’ve been part of:
 
-- **Project 1**: [RahiTrails](rahitrails.onrender.com/) — A vibrant hub for tech enthusiasts to connect and collaborate.
+- **Project 1**: [RahiTrails](https://rahitrails.onrender.com/) — A vibrant hub for tech enthusiasts to connect and collaborate.
 - **Project 2**: [AnimatedCanvas](https://palak-gupta-16.github.io/AnimateCanvas/) — A mobile app designed to promote eco-friendly habits.
 
 ---
